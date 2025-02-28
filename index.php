@@ -1,7 +1,22 @@
 <?php
-$title = "Page accueil";
-include "components/header.php";?>
 
+require_once "db/article.php";
+require_once "db/categories.php";
+
+$article = getArticle(5);
+$articleOfCategoryOne = getArticlesByCategory(1);
+
+$categories = getCategories();
+$category = getCategory(1);
+
+
+
+$title = "Page accueil";
+include "components/header.php";
+
+?>
+
+<h1>Accueil</h1>
 
 <div class="container">
 

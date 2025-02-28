@@ -1,4 +1,17 @@
+.footer p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .carousel-item img {
     height: 500px;
+    object-fit: cover;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 

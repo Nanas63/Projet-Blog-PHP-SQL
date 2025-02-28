@@ -19,7 +19,7 @@
       <div class="navbar-nav">
         <a class="nav-link active" aria-current="page" href="index.php">Accueil</a>
         <a class="nav-link" href="archive.php">Archive</a>
-        <a class="nav-link" href="article.php">Article</a>
+        
         <a class="nav-link" href="article-form.php">Formulaire</a>
 
       </div>

@@ -1,9 +1,8 @@
 
-
-<p>Crée par<br>
-Anaïs MULARD</p>
+<footer class="footer">
+<p>Crée par Anaïs MULARD</p>
 <p>le 25/02/2025</p>
-
+</footer>
 
 
 
