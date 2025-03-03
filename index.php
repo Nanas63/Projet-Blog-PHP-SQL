@@ -4,6 +4,7 @@ require_once "db/article.php";
 require_once "db/categories.php";
 
 $article = getArticle(5);
+
 $articleOfCategoryOne = getArticlesByCategory(1);
 
 $categories = getCategories();

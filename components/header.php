@@ -22,6 +22,8 @@
         
         <a class="nav-link" href="article-form.php">Formulaire</a>
 
+        <a class="nav-link" href="user-form.php">Contact</a>
+
       </div>
     </div>
   </div>
